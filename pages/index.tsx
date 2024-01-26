@@ -22,10 +22,10 @@ export default function Home() {
           <div className={styles.section}>
             <h2 className={styles.h1}>COMING SOON</h2>
             <a href="https://github.com/mwagner4084" className={styles.button}>Github</a>
+          </div>
         </div>
-      </div>
-    </main>
-  </div >
+      </main>
+    </div >
   );
 }
 

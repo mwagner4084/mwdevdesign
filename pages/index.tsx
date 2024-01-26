@@ -17,7 +17,7 @@ export default function Home() {
               priority 
             />
           </div>
-          <p className={styles.subtitle}>Front-end Web Design | Back-end Web Development | Logo Design | Social Media Mgmt | Content Marketing</p>
+          <p className={styles.subtitle}>Web Design | Front + Back End Web Development | Logo Design | Social Media Mgmt | Content Marketing</p>
           <hr></hr>
           <div className={styles.section}>
             <h2 className={styles.h1}>COMING SOON</h2>
